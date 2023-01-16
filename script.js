@@ -2,7 +2,8 @@
 const { google } = require('googleapis');
 const authorize = require('./authGoogle');
 
-//notas no ponerle el mismo nombre a un archivo y carpeta
+//configure FolderSource,FolderDestination
+//No poner un archivo y una carpeta con el mismo nombre
 
 const FolderSource = "1CEMA4MSfcjjC78cJ_GM_k2d1LHsuC0mq";
 const FolderDestination = "1-lEdgmTx7D0BOyyMD_bQ2KVNmJ6FqF4c";
