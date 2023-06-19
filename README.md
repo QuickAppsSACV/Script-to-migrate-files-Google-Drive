@@ -5,6 +5,11 @@
 3. Generate json credentials in google cloud and save in the root of the project.
 4. Execute script (node script.js)
 
+## Important files
+* credentials.js -> this file is downloaded from google cloud 
+* token.js -> this file is generated when you authenticate with google cloud.
+
+
 ## Description of Project
 The goal of the project is copy files from one folder to other folder in google drive.
 
