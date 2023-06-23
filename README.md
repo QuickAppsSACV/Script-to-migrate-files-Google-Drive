@@ -19,3 +19,6 @@ The goal of the project is copy files from one folder to other folder in google 
 ## Result of the Project
 The result of the project is a script that can be execute every day to copy files from one folder to other folder.
 
+# Flowchart Script
+
+![img flowchart](https://github.com/QuickAppsSACV/Script-to-migrate-files-Google-Drive/blob/master/Documentation/FlowChart%20Script%20migration%20File.drawio.png)
